@@ -6,7 +6,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo) 
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -118,7 +117,7 @@ To run tests, run the following command:
 👤 **Samuel Popoola**
 
 - GitHub: [GitHub](https://github.com/Tobby8629)
-- Twitter: [Twitter](https://twitter.com/tobby_samuels)
+- Twitter: [Twitter](https://twitter.com/thobie_tobeh)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/samuel-popoola-tobby/)
 
 
