@@ -1,4 +1,6 @@
+# frozen_string_literal: true
+
+# Controller for handling root requests and rendering the application's root view.
 class RootController < ApplicationController
-  def index
-  end
+  def index; end
 end

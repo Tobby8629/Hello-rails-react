@@ -8,13 +8,7 @@ function Greetings() {
   useEffect (()=>{
     dispatch(greetapi())
   }, [dispatch]) 
-  // const greet = async () => {
-  //   const res = await fetch("http://127.0.0.1:5000/api/v1/greetings")
-  //   const data = res.json()
-  //   console.log(data)
-  //   return data
-  // }
-  // greet()
+ 
 
   return (
     <div className='ree'>
