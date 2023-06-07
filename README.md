@@ -19,6 +19,7 @@
 - [📝 License](#license)
 
 # 📖 Hello-rails-react <a name="about-project"></a>
+> This is the repo to practice working with react and redux toolkit in a rails application.
 
 ## Built With <a name="built-with"></a>
 
@@ -123,6 +124,13 @@ To run tests, run the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+-  **generate api for display inventories**
+
+
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -135,6 +143,10 @@ Feel free to check the [issues page](https://github.com/MarkoKermi/recipe_app_ro
 
 Give a ⭐️ if you like this project!
 
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+- I would like to thank the microverse organization and my friends who have been supportive throughout the course of this project
+- 
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
