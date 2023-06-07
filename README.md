@@ -6,7 +6,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo) 
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -19,6 +18,7 @@
 - [📝 License](#license)
 
 # 📖 Hello-rails-react <a name="about-project"></a>
+> This is the repo to practice working with react and redux toolkit in a rails application.
 
 ## Built With <a name="built-with"></a>
 
@@ -117,11 +117,18 @@ To run tests, run the following command:
 👤 **Samuel Popoola**
 
 - GitHub: [GitHub](https://github.com/Tobby8629)
-- Twitter: [Twitter](https://twitter.com/tobby_samuels)
+- Twitter: [Twitter](https://twitter.com/thobie_tobeh)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/samuel-popoola-tobby/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+-  **generate api for display inventories**
+
 
 <!-- CONTRIBUTING -->
 
@@ -135,6 +142,10 @@ Feel free to check the [issues page](https://github.com/MarkoKermi/recipe_app_ro
 
 Give a ⭐️ if you like this project!
 
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+- I would like to thank the microverse organization and my friends who have been supportive throughout the course of this project
+- 
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>

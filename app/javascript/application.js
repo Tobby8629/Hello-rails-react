@@ -3,12 +3,25 @@ import "@hotwired/turbo-rails"
 import "./controllers"
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Greetings from "./components/Greetings.js";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { Provider } from "react-redux";
+import store from "./store";
 
 function App() {
-  return (<h1>Hello World!</h1>);
+  return (
+    <Routes>
+      <Route path="/" element={<Greetings />} />
+    </Routes>
+  );
 }
 
 ReactDOM.render(
-  <App/>,
+  <BrowserRouter>
+    <Provider store={store}>
+      <App/>
+    </Provider>
+  </BrowserRouter>
+  ,
   document.getElementById('root'),
 );
