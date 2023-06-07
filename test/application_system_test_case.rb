@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 srequire 'test_helper'
 
 class ApplicationSystemTestCase < ActionDispatch::SystemTestCase
